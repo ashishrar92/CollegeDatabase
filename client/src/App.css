@@ -1,0 +1,19 @@
+.container{
+  margin: 10px;
+}
+
+table{
+  border: 1px solid #dad4d4;
+}
+
+table th{
+  text-align: left;
+}
+
+.add-student{
+  margin-top: 20px;
+}
+
+.add-student label{
+  margin-right: 20px;
+}
